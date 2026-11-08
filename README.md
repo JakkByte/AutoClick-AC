@@ -15,11 +15,15 @@ AutoClick AC is a simple and easy-to-use Windows application that automates mous
 - Standalone Windows executable
 - Free and open-source software
 
+## Screenshot
+
+![AutoClick AC - JakkByte](screenshot.png)
+
 ## Download
 
-The Windows executable will be available in the [Releases](https://github.com/JakkByte/AutoClick-AC/releases) section.
+Download the latest Windows executable from the [Releases](https://github.com/JakkByte/AutoClick-AC/releases/latest) page.
 
-Once released, download `AutoClick-AC.exe` and run it. No Python installation is required.
+Download `AutoClick-AC.exe` and run it. No Python installation is required.
 
 ## Keyboard Shortcuts
 
